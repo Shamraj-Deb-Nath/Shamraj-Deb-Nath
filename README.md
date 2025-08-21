@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a393af8c8b36" alt="GitHub Banner" width="100%" />
+  <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png" width="100%" />
 </div>
 
 
