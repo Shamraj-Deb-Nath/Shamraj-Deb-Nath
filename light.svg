@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Shamraj Deb Nath, Computer Science and Engineering student exploring machine learning, NLP, and automation.">
+<title>Shamraj Deb Nath — Developer Profile</title>
+<desc>Light terminal-inspired profile banner with an abstract ASCII monogram and verified profile details.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".58" stop-color="#F1F7FF"/><stop offset="1" stop-color="#E8F3FF"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7C3AED"/><stop offset=".52" stop-color="#0891B2"/><stop offset="1" stop-color="#059669"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".94"/><stop offset="1" stop-color="#F8FBFF" stop-opacity=".88"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#38BDF8" stop-opacity=".18"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#94A3B8" stroke-opacity=".14" stroke-width="1"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="frame"><rect x="12" y="12" width="1156" height="586" rx="24"/></clipPath>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    .sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+    .muted{fill:#64748B}.white{fill:#0F172A}.cyan{fill:#0E7490}
+    .label{font-size:12px;letter-spacing:2px;fill:#64748B}
+    .value{font-size:15px;fill:#334155}
+    .pill{fill:#F1F7FF;stroke:#CBD5E1;stroke-width:1}
+  </style>
+</defs>
+<g clip-path="url(#frame)">
+  <rect x="12" y="12" width="1156" height="586" rx="24" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1156" height="586" fill="url(#grid)"/>
+  <circle cx="260" cy="260" r="250" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="1000" cy="480" r="230" fill="#8B5CF6" opacity=".07" filter="url(#soft)"/>
+  <path d="M12 92H1168" stroke="#CBD5E1"/>
+  <rect x="12" y="12" width="1156" height="80" fill="#FFFFFF" fill-opacity=".76"/>
+  <circle cx="42" cy="52" r="6" fill="#FB7185"/><circle cx="64" cy="52" r="6" fill="#FBBF24"/><circle cx="86" cy="52" r="6" fill="#34D399"/>
+  <text x="116" y="57" class="mono" font-size="14" fill="#334155">shamraj@profile:~</text>
+  <text x="1088" y="56" text-anchor="end" class="mono" font-size="11" fill="#059669">● PROFILE ONLINE</text>
+
+  <rect x="38" y="118" width="400" height="450" rx="18" fill="url(#panel)" stroke="#CBD5E1"/>
+  <text x="64" y="151" class="mono label">VISUAL.MAP</text>
+  <path d="M64 166H412" stroke="#CBD5E1"/>
+  <text x="238" y="213" text-anchor="middle" class="mono" font-size="13" fill="#0E7490">[ S D N ]</text>
+  <rect x="83" y="232" width="310" height="168" rx="12" fill="#F8FBFF" stroke="#BFDBFE"/>
+  <text x="238" y="260" text-anchor="middle" class="mono" font-size="12" fill="#64748B">IDENTITY.MATRIX</text>
+  <g class="mono" font-size="16" font-weight="700" text-anchor="middle" fill="#0E7490">
+    <text x="238" y="290">██████╗ ██████╗ ███╗   ██╗</text>
+    <text x="238" y="312">██╔══██╗██╔══██╗████╗  ██║</text>
+    <text x="238" y="334">██████╔╝██║  ██║██╔██╗ ██║</text>
+    <text x="238" y="356">██╔══██╗██║  ██║██║╚██╗██║</text>
+    <text x="238" y="378">██║  ██║██████╔╝██║ ╚████║</text>
+  </g>
+  <text x="64" y="438" class="mono" font-size="12" fill="#6D28D9">~/profile $</text>
+  <text x="160" y="438" class="mono" font-size="12" fill="#334155">learn → build → improve</text>
+  <rect x="64" y="466" width="348" height="1" fill="#CBD5E1"/>
+  <text x="64" y="496" class="sans" font-size="17" font-weight="700" fill="#0F172A">Curious by design.</text>
+  <text x="64" y="520" class="sans" font-size="14" fill="#64748B">Building skills across software,</text>
+  <text x="64" y="541" class="sans" font-size="14" fill="#64748B">machine learning &amp; automation.</text>
+
+  <rect x="462" y="118" width="680" height="450" rx="18" fill="url(#panel)" stroke="#CBD5E1"/>
+  <text x="492" y="151" class="mono label">SYSTEM.INFO</text>
+  <text x="1110" y="151" text-anchor="end" class="mono" font-size="11" fill="#94A3B8">profile.sh — 01</text>
+  <path d="M492 166H1112" stroke="#CBD5E1"/>
+  <text x="492" y="199" class="mono" font-size="12" fill="#0E7490">shamraj@developer:~$ ./profile.sh</text>
+  <text x="492" y="244" class="sans white" font-size="34" font-weight="750">Shamraj Deb Nath</text>
+  <text x="492" y="275" class="sans" font-size="18" fill="#6D28D9">CSE Student · ML R&amp;D Team Lead</text>
+  <text x="492" y="304" class="sans" font-size="14" fill="#64748B">Premier University · Chattogram, Bangladesh</text>
+
+  <text x="492" y="350" class="mono label">FOCUS</text>
+  <text x="625" y="350" class="sans value">Machine Learning · NLP · AI Automation</text>
+  <path d="M492 366H1112" stroke="#CBD5E1"/>
+  <text x="492" y="397" class="mono label">STACK</text>
+  <g class="sans" font-size="12">
+    <rect x="625" y="378" width="66" height="28" rx="14" class="pill"/><text x="658" y="396" text-anchor="middle" fill="#334155">Python</text>
+    <rect x="699" y="378" width="58" height="28" rx="14" class="pill"/><text x="728" y="396" text-anchor="middle" fill="#334155">Java</text>
+    <rect x="765" y="378" width="54" height="28" rx="14" class="pill"/><text x="792" y="396" text-anchor="middle" fill="#334155">C/C++</text>
+    <rect x="827" y="378" width="68" height="28" rx="14" class="pill"/><text x="861" y="396" text-anchor="middle" fill="#334155">Kotlin</text>
+    <rect x="903" y="378" width="62" height="28" rx="14" class="pill"/><text x="934" y="396" text-anchor="middle" fill="#334155">Flutter</text>
+    <rect x="973" y="378" width="53" height="28" rx="14" class="pill"/><text x="999" y="396" text-anchor="middle" fill="#334155">n8n</text>
+  </g>
+  <text x="492" y="443" class="mono label">SELECTED WORK</text>
+  <text x="625" y="443" class="sans" font-size="14" fill="#0F172A">DNA Sequence Classification</text>
+  <text x="625" y="464" class="sans" font-size="12" fill="#64748B">ML-based gene-family classification using k-mer features</text>
+  <text x="625" y="495" class="sans" font-size="14" fill="#0F172A">StamaSoft Internship Projects</text>
+  <text x="625" y="516" class="sans" font-size="12" fill="#64748B">Android, Java, Kotlin, Flutter &amp; programming practice</text>
+  <path d="M492 535H1112" stroke="#CBD5E1"/>
+  <text x="492" y="555" class="mono" font-size="11" fill="#0E7490">STATUS: ALWAYS LEARNING</text>
+  <text x="1112" y="555" text-anchor="end" class="mono" font-size="11" fill="#94A3B8">v1.0 / 2026</text>
+
+  <rect x="12" y="12" width="1156" height="586" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="1.5"/>
+  <path d="M-150 0L-20 0L-20 610L-150 610Z" fill="#0891B2" opacity=".025">
+    <animateTransform attributeName="transform" type="translate" values="0 0;1400 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <rect x="12" y="12" width="1156" height="586" rx="24" fill="none" stroke="#0E7490" stroke-opacity=".12">
+    <animate attributeName="stroke-opacity" values=".06;.20;.06" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>
